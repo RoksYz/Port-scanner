@@ -5,7 +5,7 @@ from queue import Queue
 
 print_lock = threading.Lock()
 
-target = 'hackthissite.org'
+target = ''
 #ip = socket.gethostbyname(target)
 
 
