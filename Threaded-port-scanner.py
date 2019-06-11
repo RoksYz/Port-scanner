@@ -18,6 +18,7 @@ def portscan(port):
         con.close()
     except:
         pass
+# for that always change the numbers while compiling.
 
 def threader():
     while True:
